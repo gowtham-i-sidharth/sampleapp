@@ -1,7 +1,7 @@
 public class AddMatrices {
 
     public static void main(String[] args) {
-        int rows = 4, columns = 5;
+        int rows = 6, columns = 7;
         int[][] firstMatrix = { {2, 3, 4}, {5, 2, 3} };
         int[][] secondMatrix = { {-4, 5, 3}, {5, 6, 3} };
 
